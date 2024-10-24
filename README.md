@@ -13,14 +13,21 @@ trim_BF.sh
 script to trim sequences
 
 sort_me_RNA_NV.sh
-sort_me_RNA_NF.sh
-sort_me_RNA_NM.sh
-scripts to sort RNA into mRNA and rRNA, rRNA da
+scripts to sort RNA into mRNA and rRNA
 
+sort_me_RNA_NF.sh
+scripts to sort RNA into mRNA and rRNA
+
+sort_me_RNA_NM.sh
+scripts to sort RNA into mRNA and rRNA
+
+Nviennensis_rRNAs.fasta
 Reference file for rRNA NV
 
+Nfran_rRNA.fasta
 Reference file for rRNA NF
 
+Nmar_rRNA.fasta
 Reference file for rRNA NM
 
 
