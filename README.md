@@ -6,7 +6,7 @@ Transcriptomic study of N. viennensis, Ca. N. franklandianus and N. maritimus in
 
 ##Transcriptomic Processing
 
-*fastqc_BF.sh
+ *  fastqc_BF.sh
   *script for initial quality check
 
 *trim_BF.sh
