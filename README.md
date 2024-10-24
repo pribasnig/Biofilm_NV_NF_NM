@@ -50,6 +50,19 @@ N. franklandianus genome file used for hisat2
 GCF_000018465.1_ASM1846v1_genomic.fna
 N. maritimus genome file used for hisat2
 
+counts_BF_NV.sh
+
+counts_BF_NF.sh
+
+counts_BF_NM.sh
 
 
+GCA_000698785.1_ASM69878v1_genomic.gff
+N. viennensis genome file Genbank for feature counts
+
+Nfran.gff
+N. franklandianus genome file RefSeq for feature counts
+
+Nmar.gff
+N. maritimus genome file RefSeq for feature counts
 
