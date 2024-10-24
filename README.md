@@ -4,7 +4,7 @@ Transcriptomic study of N. viennensis, Ca. N. franklandianus and N. maritimus in
 
 ## Table of Contents
 
-## Transcriptomic Processing
+## 1. Transcriptomic Processing in batch
 
  *  fastqc_BF.sh
   * script for initial quality check
@@ -70,6 +70,16 @@ Transcriptomic study of N. viennensis, Ca. N. franklandianus and N. maritimus in
   * N. maritimus annotation file RefSeq for feature counts
 
 * counts_NV_hisat.txt
-  * counted 
+  *  file used for input in DESeq2 after processing reads 
+
+* counts_NF_hisat.txt
+  *  file used for input in DESeq2 after processing reads  
+
+* counts_NM_hisat.txt
+  *  file used for input in DESeq2 after processing reads  
+
+
+## 2. Analysis in R
+
 
 
