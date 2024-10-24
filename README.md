@@ -32,10 +32,16 @@ Reference file for rRNA NM
 
 
 hisat2_BF_NV.sh
+script to align RNA to genome
+
 hisat2_BF_NF.sh
+script to align RNA to genome
+
 hisat2_BF_NM.sh
-scripts to align RNA to genomes of NV, NF and NM
-Genbank data was used for NV, NM
+script to align RNA to genome
+
+
+
 
 
 
