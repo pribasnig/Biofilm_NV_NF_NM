@@ -41,7 +41,14 @@ hisat2_BF_NM.sh
 script to align RNA to genome
 
 
+GCA_000698785.1_ASM69878v1_genomic.fna
+N. viennensis genome file used for hisat2
 
+GCF_900696045.1_Nitrosocosmicus_franklandus_C13_genomic.fna
+N. franklandianus genome file used for hisat2
+
+GCF_000018465.1_ASM1846v1_genomic.fna
+N. maritimus genome file used for hisat2
 
 
 
