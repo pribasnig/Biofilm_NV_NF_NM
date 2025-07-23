@@ -111,3 +111,12 @@ Transcriptomic study of N. viennensis, Ca. N. franklandianus and N. maritimus in
 
 
 
+ * PCA_plot_analysis_NV_RERUN.R
+   * Performs PCA and PERMANOVA on rlog-transformed RNA-seq data. 
+    
+* PCA_plot_analysis_NF_RERUN.R
+   * Performs PCA and PERMANOVA on rlog-transformed RNA-seq data. 
+     
+* PCA_plot_analysis_NM_RERUN.R
+   * Performs PCA and PERMANOVA on rlog-transformed RNA-seq data. 
+
