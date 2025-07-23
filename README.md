@@ -98,8 +98,16 @@ Transcriptomic study of N. viennensis, Ca. N. franklandianus and N. maritimus in
      
 * counts_NM_hisat_PE_RERUN.txt
    * File for expression analysis with DESeq2.
+     
  
- 
+ * counts_NV_hisat_PE_RERUN_TPM_calc.xlsx
+   * File that contains calculation for TPM and log2TPM for NV.
+    
+* counts_NF_hisat_PE_RERUN_TPM_calc.xlsx
+   * File that contains calculation for TPM and log2TPM for NF.
+     
+* counts_NM_hisat_PE_RERUN_TPM_calc.xlsx
+   * File that contains calculation for TPM and log2TPM for NM.
 
 
 
