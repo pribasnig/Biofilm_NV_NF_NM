@@ -110,7 +110,6 @@ Transcriptomic study of N. viennensis, Ca. N. franklandianus and N. maritimus in
    * File that contains calculation for TPM and log2TPM for NM.
 
 
-
  * PCA_plot_analysis_NV_RERUN.R
    * Performs PCA and PERMANOVA on rlog-transformed RNA-seq data. 
     
@@ -118,5 +117,21 @@ Transcriptomic study of N. viennensis, Ca. N. franklandianus and N. maritimus in
    * Performs PCA and PERMANOVA on rlog-transformed RNA-seq data. 
      
 * PCA_plot_analysis_NM_RERUN.R
-   * Performs PCA and PERMANOVA on rlog-transformed RNA-seq data. 
+   * Performs PCA and PERMANOVA on rlog-transformed RNA-seq data.
+ 
+ 
+* BF_gene_finder_TOP50.R
+   * Selects top 50 upregulated genes per species, filters for highly expressed ones (Rank TPM ≤ 100), and extracts all members of their protein families from the respective species.
+
+
+* ALL_NV_for_BF_genes.csv
+   * NV RNA-seq data and TPM data with protein family information to find bona fide BF genes.
+    
+* ALL_NF_for_BF_genes.csv
+   * NF RNA-seq data and TPM data with protein family information to find bona fide BF genes.. 
+     
+* ALL_NM_for_BF_genes.csv
+   * NM RNA-seq data and TPM data with protein family information to find bona fide BF genes.
+
+
 
