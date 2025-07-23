@@ -81,5 +81,11 @@ Transcriptomic study of N. viennensis, Ca. N. franklandianus and N. maritimus in
 
 ## 2. Analysis in R
 
+ *  analysis_DESeq_NV_RERUN.R
+  * Runs differential expression analysis with DESeq2.
 
+ *  analysis_DESeq_NF_RERUN.R
+  * Runs differential expression analysis with DESeq2.
 
+  *  *  analysis_DESeq_NM_RERUN.R
+  * Runs differential expression analysis with DESeq2.
