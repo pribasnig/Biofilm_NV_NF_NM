@@ -123,7 +123,10 @@ Transcriptomic study of N. viennensis, Ca. N. franklandianus and N. maritimus in
 * BF_gene_finder_TOP50.R
    * Selects top 50 upregulated genes per species, filters for highly expressed ones (Rank TPM ≤ 100), and extracts all members of their protein families from the respective species.
 
-
+* HFX_list.txt
+   * All protein family information for AOA
+ 
+    
 * ALL_NV_for_BF_genes.csv
    * NV RNA-seq data and TPM data with protein family information to find bona fide BF genes.
     
