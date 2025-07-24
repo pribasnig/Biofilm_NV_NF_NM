@@ -148,8 +148,6 @@ Transcriptomic study of N. viennensis, Ca. N. franklandianus and N. maritimus in
   * script that builds a Venn diagramm showing overlaps of conversedly upregualted genes based on protein family.
 
 
-
- 
  
 * BF_gene_finder_TOP50.R
    * Selects top 50 upregulated genes per species, filters for highly expressed ones (Rank TPM ≤ 100), and extracts all members of their protein families from the respective species.
@@ -167,7 +165,15 @@ Transcriptomic study of N. viennensis, Ca. N. franklandianus and N. maritimus in
 * ALL_NM_for_BF_genes.csv
    * Manually curated file containing NM RNA-seq data, TPM data and protein family information to find bona fide BF genes.
 
-
-
-
+* NO2_500_ref_BF_NV_transcriptomics.R
+   * Script to calculate time to 500 to calculate BAR
+ 
+* combined_innoculation_reference_NV.csv
+   * file with incoulation volume, 5% needed for BAR
+ 
+* combined_transfers.csv
+   * file with growth data for all transfers NV
+  
+* Biomass_accumulation_ratio_calculation.xlsx
+   * file where BARs are calculated
 
