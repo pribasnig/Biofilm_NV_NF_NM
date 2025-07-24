@@ -129,16 +129,23 @@ Transcriptomic study of N. viennensis, Ca. N. franklandianus and N. maritimus in
 * filtering_NV_data_differntial_expression.R
    * Script that filters significantly differentially expressed genes.
 
+* NV_for_filtering_in_R_LH.csv
+   * file to filter 
+    
+* NF_for_filtering_in_R_LH.csv
+   * file to filter
+     
+* NM_for_filtering_in_R_LH.csv
+   * file to filter
 
+* BF_genes_by_family_conservation.R
+   * takes file with significantly upregulated genes and checks for genes upregualted in all combinations of the 3 transcriptomes.  Conservation based on protein family.
+ 
+* BF_genes_by_protein_family_LH.csv
+  * manually curated file containing information on conserved upregulation in the 3 transcriptomes.
 
-
-
-
-
-
-
-
-
+* Venn_diagramm_BF_genes_RERUN.R
+  * script that builds a Venn diagramm showing overlaps of conversedly upregualted genes based on protein family.
 
 
 
