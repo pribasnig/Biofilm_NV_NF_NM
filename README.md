@@ -118,6 +118,30 @@ Transcriptomic study of N. viennensis, Ca. N. franklandianus and N. maritimus in
      
 * PCA_plot_analysis_NM_RERUN.R
    * Performs PCA and PERMANOVA on rlog-transformed RNA-seq data.
+
+
+* filtering_NV_data_differntial_expression.R
+   * Script that filters significantly differentially expressed genes. 
+    
+* filtering_NV_data_differntial_expression.R
+   * Script that filters significantly differentially expressed genes.  
+     
+* filtering_NV_data_differntial_expression.R
+   * Script that filters significantly differentially expressed genes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
  
 * BF_gene_finder_TOP50.R
@@ -128,13 +152,15 @@ Transcriptomic study of N. viennensis, Ca. N. franklandianus and N. maritimus in
  
     
 * ALL_NV_for_BF_genes.csv
-   * NV RNA-seq data and TPM data with protein family information to find bona fide BF genes.
+   * Manually curated file containing NV RNA-seq data and TPM data and protein family information to find bona fide BF genes.
     
 * ALL_NF_for_BF_genes.csv
-   * NF RNA-seq data and TPM data with protein family information to find bona fide BF genes.. 
+   * Manually curated file containing NF RNA-seq data, TPM data and protein family information to find bona fide BF genes.. 
      
 * ALL_NM_for_BF_genes.csv
-   * NM RNA-seq data and TPM data with protein family information to find bona fide BF genes.
+   * Manually curated file containing NM RNA-seq data, TPM data and protein family information to find bona fide BF genes.
+
+
 
 
 
